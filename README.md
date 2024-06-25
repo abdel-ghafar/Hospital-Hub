@@ -26,4 +26,7 @@ As part of this project, I was responsible for:
 - Microsoft Word: For writing detailed documentation.
 - Draw.io: For creating additional diagrams.
 
+## Duration
+- 3 months (85.5 days as per the project plan)
+
 
